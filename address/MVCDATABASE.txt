@@ -1,0 +1,1 @@
+http://msdn.microsoft.com/en-us/vs2010trainingcourse_aspnetmvc3modelsanddataaccess_topic2.aspx
